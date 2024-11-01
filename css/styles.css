@@ -1,0 +1,147 @@
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+body {
+    color: #434455;
+    background-color: #FFFFFF;
+    font-family: Roboto, sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+a {
+    text-decoration: none;
+}
+h1,
+h2,
+h3,
+h4,
+p {
+    margin: 0;
+}
+ul {
+    list-style-type: none;
+    padding-left: 0;
+    margin: 0;
+}
+.container {
+    margin: 0 156;
+}
+.web-header {
+    font-family: Raleway;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.16;
+    letter-spacing: 0.03em;
+    color: #4D5AE5;
+}
+.studio-header {
+    color: #2E2F42;
+
+}
+.list-nav {
+    color:#2E2F42;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+.header-address {
+    color: #434455;
+}
+.effective-solutions-for-your-business {
+    color: #FFFFFF;
+    background-color: #2E2F42;
+    text-align: center;
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+.order-service {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #FFFFFF;
+    background-color: #4D5AE5;
+    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
+}
+.visually-hidden {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    margin: -1px;
+    border: 0;
+    padding: 0;
+    white-space: nowrap;
+    clip-path: inset(100%);
+    clip: rect(0 0 0 0);
+    overflow: hidden;
+}
+.analysis-main {
+    color: #2E2F42;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+}
+.our-team-main {
+    color: #2E2F42;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.11em;
+    letter-spacing: 0.02em;
+    text-align: center;
+}
+.name-our-team {
+    color: #2E2F42;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    text-align: center;
+}
+.text-our-team {
+    text-align: center;
+}
+.container-img-team {
+    box-shadow: 0 2px 1px 0 rgba(46, 47, 66, 0.08), 0 1px 1px 0 rgba(46, 47, 66, 0.16), 0 1px 6px 0 rgba(46, 47, 66, 0.08)
+}
+.our-portfolio-main {
+    color: #2E2F42;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.11em;
+    letter-spacing: 0.02em;
+    text-align: center;
+}
+.portfolio {
+    color: #2E2F42;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+}
+.footer {
+    background-color: #2E2F42;
+}
+.web-footer {
+    font-family: Raleway;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.16;
+    letter-spacing: 0.03em;
+    color: #4D5AE5;
+}
+.studio-footer {
+    color: #F4F4FD;
+}
+.footer-text {
+    color: #F4F4FD;
+}
